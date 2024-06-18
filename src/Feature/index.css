@@ -1,0 +1,179 @@
+.feature{
+   margin-left: 39%;
+   font-size: 40px;
+   
+ }
+ .firstpart{
+     display: flex;
+     gap: 21%;
+     margin-left: 16%;
+ }
+ .secondpart{
+     display: flex;
+     gap: 21%;
+     margin-left: 16%;
+ }
+ h2{
+    font-size: 23px;
+ }
+ .icon1{
+    display: flex;
+    gap: 10px;
+
+
+ }
+ body{
+    font-size: 20px;
+ }
+ p {
+    text-align: left;
+}
+
+ 
+ .analytics{
+    margin-top: -2%;
+    
+ }
+ .analytic{
+    margin-top: 1%;
+ }
+ .tracker{
+    display: flex;
+    gap: 10px;
+ }
+ .icon2{
+    margin-top: 3%;
+ }
+ .alt{
+    display: flex;
+    gap: 10px;
+ }
+ .icon3{
+    margin-top: 3%;
+ }
+ .credit{
+    display: flex;
+    gap: 10px;
+ }
+ .icon4{
+    margin-top: 3%;
+ }
+@media  screen and (min-width:300px) and (max-width:550px) {
+    .firstpart{
+        display: block;
+        margin-left: 3%;
+    }
+   
+    .secondpart{
+        display: block;
+        margin-left: 3%;
+    }
+    .feature{
+        margin-left: 27%;
+        font-size: 24px;
+      }
+      h2{
+        font-size: 18px;
+     }
+
+      body{
+        font-size: 20px;
+     }
+}
+
+@media  screen and (min-width:600px) and (max-width:800px) {
+    .firstpart{
+        display: flex;
+        gap: 13%;
+        margin-left: 4%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 13%;
+        margin-left: 3%;
+    }
+    .feature{
+        margin-left: 33%;
+        font-size: 24px;
+
+    }
+    
+    }
+    h2{
+      font-size: 18px;
+   }
+
+    body{
+      font-size: 20px;
+   }
+
+
+@media  screen and (min-width:801px) and (max-width:1000px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 2%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 2%;
+    }
+    .feature{
+        margin-left: 33%;
+        font-size: 24px;
+      }
+      h2{
+        font-size: 18px;
+     }
+  
+      body{
+        font-size: 20px;
+     }
+}
+@media  screen and (min-width:1001px) and (max-width:1200px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 3%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 3%;
+    }
+    .feature{
+        margin-left: 33%;
+        font-size: 24px;
+      }
+      h2{
+        font-size: 18px;
+     }
+  
+      body{
+        font-size: 20px;
+     }
+}
+@media  screen and (min-width:1201px) and (max-width:1280px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 10%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 10%;
+    }
+    .feature{
+        margin-left: 33%;
+        font-size: 24px;
+      }
+      h2{
+        font-size: 18px;
+     }
+  
+      body{
+        font-size: 20px;
+     }
+}
