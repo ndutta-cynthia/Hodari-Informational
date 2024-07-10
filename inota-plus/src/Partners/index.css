@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 20px;
+    /* padding: 8px; */
     background-color: #f0f0f0;
 }
 .logo-container {
@@ -67,12 +67,12 @@ body {
         display: grid;
         align-items: center;
         margin-bottom: 20px;
-        padding-left: 36%;
+        padding-left: 28%;
         gap: 1%;
 
     } 
     .logo{
-        width: 280%;
+        /* width: 280%; */
     }
   } 
 @media screen and (min-width:820px) and (max-width:830px){
@@ -112,6 +112,7 @@ body {
         align-items: center;
         margin-bottom: 20px;
         padding-left: 1%;
+        padding-right: 30%;
         gap: 2%;
 
     } 
@@ -130,7 +131,7 @@ body {
 
     } 
     .logo{
-        width: 280px;
+        /* width: 280px; */
     }
   }
 
