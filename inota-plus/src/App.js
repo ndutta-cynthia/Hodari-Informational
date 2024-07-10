@@ -1,12 +1,15 @@
-import Feature from "./Feature";
+import './App.css';
+import Partners from './Partners';
+import Feature from './Feature';
 import Footer from "./Footer";
 
-
-const App =()=>{
+function App() {
   return (
     <div>
       <Feature/>
+      <Partners/>
       <Footer/>
+     
     </div>
   )
 }
