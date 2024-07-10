@@ -1,5 +1,6 @@
 import React from "react";
 import './index.css';
+import inota from '../images/InotaLogo.png'
 import { FaFacebook, FaInstagram, FaLinkedin, FaPhoneAlt} from 'react-icons/fa';
 
 function Footer() {
@@ -7,7 +8,7 @@ function Footer() {
         <footer>
             <div className="footer">
                 <div className="logo">
-                    <img src='./images/InotaLogo.png' alt="InotaLogo"></img>
+                    <img src={inota} alt="InotaLogo"></img>
                 </div>
                 <div className="social-media">
                     <div>
