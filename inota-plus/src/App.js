@@ -1,11 +1,16 @@
-import Nav from "./Navbar";
+import Landing from "./LandingPage";
 import About from "./About";
+import Navbar from "./Navbar";
+
 
 const App = () =>{
   return(
    
       <div>
-         <Nav/>
+      
+      <Navbar/>
+       
+         <Landing/>
          <About/>
         
 
