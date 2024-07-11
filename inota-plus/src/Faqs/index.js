@@ -1,7 +1,7 @@
 import React from 'react';
-import FaqItem from '../FaqItem';
+import FaqItem from './Components/FaqItem';
 import './index.css';
-const FaqList = () => {
+const Faqs = () => {
     const faqs = [
       {
         id: 1,
@@ -52,4 +52,4 @@ const FaqList = () => {
         </>
     );
 };
-export default FaqList;
+export default Faqs;
