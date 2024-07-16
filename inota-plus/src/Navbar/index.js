@@ -8,8 +8,6 @@ import {IoMdClose} from 'react-icons/io'
 import inota from '../images/inota.png'
 
 
-
-
 const Navbar=()=>{
     const [isOpen, setIsOpen]= useState(false);
 

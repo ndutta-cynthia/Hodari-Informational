@@ -1,5 +1,4 @@
 
-
 #navlist{
     list-style-type: none;
     display: flex;
@@ -21,7 +20,7 @@
 #main-container{
     display: flex;
     gap: 27%;
-    height: 30px;
+    height: 45px;
 }
 #landing-container{
 background-image: url("../images/DeWatermark.ai_1718134937972.png");
@@ -66,12 +65,13 @@ button{
     }
     
     .hamburger{
-        display: block;
-        color: #000000;
+      display: block;
+      color: #000000;
        margin-top: 6px;
        margin-left: 20%;
        list-style: none;
       }
+      
       .links {
         position: fixed;
         top: 0;
@@ -105,7 +105,7 @@ button{
     background-repeat: no-repeat;
     background-size: 100% 90%;
     height: 382px;
-    width: 104%;
+    width: 109%;
 
     }
     h1{
@@ -342,7 +342,7 @@ button{
 
     }
     h1{
-        padding-top: 20%;
+        padding-top: 21%;
         padding-left: -1%;
         font-size: 25.5px;
         color: white;
