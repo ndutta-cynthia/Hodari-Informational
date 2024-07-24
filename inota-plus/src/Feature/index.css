@@ -1,0 +1,275 @@
+.title{
+    margin-left: 38%;
+    font-size: 59px;
+    margin-top: 4%;
+  
+    
+  }
+  .socials{
+     margin-top: 3%;
+     
+  }
+  .section-one{
+      display: flex;
+      gap: 21%;
+      margin-left: 10%;
+      
+  }
+  .section-three{
+      display: flex;
+      gap: 21%;
+      margin-left: 10%;
+  }
+ .headers{
+     font-size: 160%;
+     margin-top: 4%;
+ 
+ }
+  .sub-section-one{
+     display: flex;
+     gap: 10px;
+ 
+ 
+  }
+  .creditscore-header{
+     font-size: 160%;
+     margin-top: 4%;
+  }
+ 
+  p {
+     text-align: left;
+     font-size: 145%;
+ }
+  .section-two{
+     margin-top: -2%;
+     
+  }
+  .social{
+     margin-top: 3%;
+  }
+  .sub-section-two{
+     display: flex;
+     gap: 10px;
+  }
+  .payment-icon{
+     margin-top: 5%;
+  }
+  .sub-section-three{
+     display: flex;
+     gap: 10px;
+  }
+  .holdingusd-icon{
+     margin-top: 5%;
+  }
+  .sub-section-four{
+     display: flex;
+     gap: 10px;
+  }
+  .arrowclockwise-icon{
+     margin-top: 5%;
+  }
+
+  @media  screen and (min-width:0px) and (max-width:299px){
+    .section-one{
+        display: block;
+        width: 75%;
+    }
+    
+
+    .headers{
+        font-size: 100%;
+    }
+    .section-three{
+        display: block;
+        margin-left: 10%;
+        width: 75%;
+
+    }
+    p{
+        font-size: 85%;
+    }
+    .title{
+
+        margin-left: 18%;
+        font-size: 140%;
+        margin-top: 4%;
+       
+      }
+  }
+
+ @media  screen and (min-width:300px) and (max-width:550px) {
+     .section-one{
+         display: block;
+         width: 75%;
+     }
+     
+ 
+     .headers{
+         font-size: 70%;
+     }
+     .section-three{
+         display: block;
+         margin-left: 10%;
+         width: 75%;
+ 
+     }
+     p{
+         font-size: 65%;
+     }
+     .title{
+ 
+         margin-left: 20%;
+         font-size: 150%;
+         margin-top: 4%;
+        
+       }
+       
+ 
+    
+ }
+ @media  screen and (min-width:279px) and (max-width:285px) {
+    .section-one{
+        display: flex;
+        flex-direction: column;
+        width: 75%;
+        align-items: center;
+    }
+    
+
+    .headers{
+        font-size: 70%;
+    }
+    .section-three{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10%;
+        width: 75%;
+        align-items: center;
+
+    }
+    p{
+        font-size: 65%;
+    }
+    .title{
+
+        margin-left: 20%;
+        font-size: 150%;
+        margin-top: 4%;
+       
+      }
+      
+
+   
+}
+ 
+ @media  screen and (min-width:600px) and (max-width:800px) {
+     .section-one{
+         display: block;
+        
+        
+         margin-left: 18%;
+     }
+    
+     .section-three{
+         display: block;
+        
+         margin-left: 18%;
+     }
+     .title{
+         margin-left: 33%;
+         font-size: 180%;
+ 
+     }
+     .headers{
+         font-size: 160%;
+     }
+     p{
+         font-size: 120%;
+     }
+ }
+ 
+ @media  screen and (min-width:801px) and (max-width:1000px) {
+      .section-one{
+         display: block;
+        align-items: center;
+         margin-left: 26%;
+     }
+    
+     .section-three{
+         display: block;
+         margin-left: 27%;
+     }
+     .title{
+         margin-left: 28%;
+         font-size: 200%;
+ 
+     }
+     p{
+         font-size: 120%;
+ 
+     }
+     .headers{
+         margin-top: 8%;
+     }
+     
+     }
+ 
+ @media  screen and (min-width:1001px) and (max-width:1200px) {
+     .section-one{
+         display: block;
+        
+         margin-left: 19%;
+     }
+    
+     .section-three{
+         display: block;
+        
+         margin-left: 19%;
+     }
+     .title{
+         margin-left: 30%;
+         font-size: 210%;
+       
+ 
+     }
+     .headers{
+         margin-top: 7%;
+     }
+     
+     }
+     h2{
+       font-size: 18px;
+    }
+ 
+     body{
+       font-size: 20px;
+    
+ }
+ @media  screen and (min-width:1201px) and (max-width:1281px) {
+     .section-one{
+         display: flex;
+         gap: 10%;
+         margin-left: 3.5%;
+         width: 94%;
+     }
+     .section-three{
+         display: flex;
+         gap: 8%;
+         margin-left: 3.5%;
+         width: 94%;
+        
+     }
+     .title{
+         margin-left: 33%;
+         font-size: 290%;
+         
+       }
+       h2{
+         font-size: 18px;
+      }
+   
+       body{
+         font-size: 20px;
+      }
+     
+ }

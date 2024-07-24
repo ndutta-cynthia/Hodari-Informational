@@ -1,0 +1,397 @@
+#landing-container{
+background-image: url("../images/DeWatermark.ai_1718134937972.png");
+background-position: cover;
+background-repeat: no-repeat;
+background-size:100% 100%;
+object-fit: cover;
+height: 910px;
+margin-top: -25px;
+
+}
+h1{
+    padding-top: 20%;
+    padding-left: 11%;
+    font-size: 66px;
+    color: white;
+}
+button{
+    margin-left: 47%;
+    height: 55px;
+    width: 120px;
+    border-radius: 30px;
+    border: 0cap;
+    font-size: 20px;
+    margin-top: 6%;
+    color: white;
+    background-color:rgb(90, 209, 209);
+    border: none;
+}
+
+
+@media screen and (min-width:0px) and (max-width:299px) {
+    #landing-container{
+        background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    height: 382px;
+    width: 109%;
+
+    }
+    h1{
+        padding-top: 30%;
+        padding-left: 13%;
+        font-size: 25px;
+        color: rgb(250, 242, 242);
+    }
+    button{
+        margin-left: 40%;
+        height: 30px;
+        width: 70px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 14px;
+        margin-top: -10%;
+        color: white;
+        background-color:rgb(92, 210, 210);
+    }  
+}
+
+/* @media screen and (min-width:414px) and (max-width:896px) {
+    #navlist{
+        list-style-type: none;
+        display: none;
+        gap: 12%;
+        margin-top: 30px;
+        font-size: 11px;
+        margin-left: -40%; 
+    }
+    .hamburger{
+        display: block;
+        color: #060910;
+       margin-top: 5px;
+       margin-left: 90px;
+       list-style: none;
+      }
+    #image{
+        width: 42px;
+        height: 40px;
+        
+    }
+    #maincontainer{
+        display: flex;
+        gap: 35%;
+        height: 30px;
+    }
+    #landingdiv{
+    background-image: url(DeWatermark.ai_1718134937972.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 580px;
+    height: 582px;
+    width: 100%;
+ 
+    }
+    h1{
+        padding-top: 30%;
+        padding-left: 13%;
+        font-size: 30px;
+        color: rgb(250, 242, 242);
+    }
+    button{
+        margin-left: 40%;
+        height: 40px;
+        width: 90px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 14px;
+        margin-top: 6%;
+        color: white;
+        background-color:rgb(92, 210, 210);
+    }  
+} */
+
+/* @media screen and (min-width:320px) and (max-width:533px) {
+    #navlist{
+        list-style-type: none;
+        display: none;
+        gap: 14%;
+        margin-top: 30px;
+        font-size: 11px;
+        margin-left: -40%;
+    }
+    .hamburger{
+        display: block;
+        color: #060910;
+       margin-top: 5px;
+       margin-left: 90px;
+       list-style: none;
+      }
+    #image{
+        width: 45px;
+        height: 40px;
+        
+    }
+    #maincontainer{
+        display: flex;
+        gap: 35%;
+        height: 30px;
+    }
+    #landingdiv{
+    background-image: url(DeWatermark.ai_1718134937972.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 599px 580px;
+    height: 582px;
+    width: 112%;
+ 
+    }
+    h1{
+        padding-top: 30%;
+        padding-left: 13%;
+        font-size: 30px;
+        color: rgb(250, 242, 242);
+    }
+    button{
+        margin-left: 40%;
+        height: 40px;
+        width: 90px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 14px;
+        margin-top: 6%;
+        color: white;
+        background-color:rgb(92, 210, 210);
+    }  
+}  */
+
+/* @media screen and (min-width:375px) and (max-width:667px) {
+    #navlist{
+        list-style-type: none;
+        display: none;
+        gap: 14%;
+        margin-top: 30px;
+        font-size: 11px;
+        margin-left: -40%;
+    }
+    .hamburger{
+        display: block;
+        color: #060910;
+       margin-top: 5px;
+       margin-left: 80%;
+       list-style: none;
+      }
+    #image{
+        width: 45px;
+        height: 40px;
+        
+    }
+    #maincontainer{
+        display: flex;
+        gap: 35%;
+        height: 30px;
+    }
+    #landingdiv{
+    background-image: url(DeWatermark.ai_1718134937972.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 599px 580px;
+    height: 582px;
+    width: 161%;
+ 
+    }
+    h1{
+        padding-top: 30%;
+        padding-left: 13%;
+        font-size: 30px;
+        color: rgb(250, 242, 242);
+    }
+    button{
+        margin-left: 40%;
+        height: 40px;
+        width: 90px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 14px;
+        margin-top: 6%;
+        color: white;
+        background-color:rgb(92, 210, 210);
+    }  
+}  */
+
+
+@media screen and (min-width:300px) and (max-width:480px) {
+    #landing-container{
+    background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: 100% 40.9%;
+    width: 100%;
+
+    }
+    h1{
+        padding-top: 21%;
+        padding-left: -1%;
+        font-size: 25.5px;
+        color: white;
+    }
+    button{
+        margin-left: 38%;
+        height: 34px;
+        width: 80px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 16px;
+        margin-top: 5%;
+    }   
+} 
+
+@media screen and (min-width:481px) and (max-width:680px) {
+    #landing-container{
+    background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: 100% 70%;
+    height: 682px;
+    width: 100%;
+    }
+    h1{
+        padding-top: 26%;
+        padding-left: 0%;
+        font-size: 36px;
+        color: rgb(255, 255, 255);
+        margin-left: 11%;
+    }
+    button{
+        margin-left: 40%;
+        height: 40px;
+        width: 90px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 14px;
+        margin-top: 6%;
+    }  
+} 
+
+@media screen and (min-width:681px) and (max-width:880px) {
+     #landing-container{
+    background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: initial; 
+    background-repeat: no-repeat; 
+    background-size: 100% 80%;
+    width: 100%;
+
+    } 
+    h1{
+        padding-top: 30%;
+        padding-left:0%;
+        font-size: 50px;
+        width: 90%;
+        color: white;
+        margin-left: 10%;
+        
+    }
+    button{
+        margin-left:38%;
+        height: 48px;
+        width: 130px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 20px;
+        margin-top: 6%;
+    }  
+} 
+
+@media screen and (min-width:881px) and (max-width:1020px) {
+    
+    #landing-container{
+    background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    margin-top: -25px;
+    width: 100%;
+    }
+    h1{
+        padding-top: 25%;
+        padding-left: 0%;
+        font-size: 60px;
+        color: white;
+        margin-left: 11%;
+    }
+    button{
+        margin-left: 47%;
+        height: 67px;
+        width: 150px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 28px;
+                                margin-top: 6%;
+                                color: white;
+                                background-color:rgb(90, 209, 209);
+                                border: none;
+                            }  
+}
+
+ 
+@media screen and (min-width:1021px) and (max-width:1200px) {
+    #landing-container{
+    background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: initial; 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+    width: 102%;
+
+    }
+    h1{
+        padding-top: 25%;
+        padding-left:0%;
+        font-size: 60px;
+        width: 90%;
+        color: white;
+        margin-left: 10%;
+    }
+    button{
+        margin-left:42%;
+        height: 54px;
+        width: 140px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 25px;
+        margin-top: 6%;
+    }  
+}
+
+ 
+@media screen and (min-width:1201px) and (max-width:1500px) {
+    
+    #landing-container{
+     background-image: url("../images/DeWatermark.ai_1718134937972.png");
+    background-position: initial; 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+    width: 102%;
+
+    }
+    h1{
+        padding-top: 25%;
+        padding-left:0%;
+        font-size: 64px;
+        width: 90%;
+        color: white;
+        margin-left: 9%;
+        margin-left: 10%;
+    }
+    button{
+        margin-left:46%;
+        height: 60px;
+        width: 150px;
+        border-radius: 30px;
+        border: 0cap;
+        font-size: 26px;
+        margin-top: 6%;
+    }  
+} 
+
+ 
