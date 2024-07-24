@@ -1,18 +1,27 @@
-
-import React from 'react';
-import Faqs from './Faqs';
-import Feature from "./Feature";
-import Footer from "./Footer";
+import Landing from "./LandingPage";
+import About from "./About";
+import Navbar from "./Navbar";
 import Partners from './Partners';
-import './App.css';
-const App = () => {
-    return (
-        <div className="App">
-           <Feature/>
-           <Partners/>
-            <Faqs />
-            <Footer/>
-        </div>
-    );
-};
+import Feature from './Feature';
+import Footer from "./Footer";
+import Faqs from './Faqs';
+
+
+const App = () =>{
+  return(
+   
+      <div>
+      
+         <Navbar/>
+         <Landing/>
+         <About/>
+         <Feature/>
+         <Partners/>
+         <Faqs />
+         <Footer/>
+        
+
+      </div>  
+  )
+}
 export default App;

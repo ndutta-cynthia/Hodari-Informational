@@ -68,6 +68,35 @@
   .arrowclockwise-icon{
      margin-top: 5%;
   }
+
+  @media  screen and (min-width:0px) and (max-width:299px){
+    .section-one{
+        display: block;
+        width: 75%;
+    }
+    
+
+    .headers{
+        font-size: 100%;
+    }
+    .section-three{
+        display: block;
+        margin-left: 10%;
+        width: 75%;
+
+    }
+    p{
+        font-size: 85%;
+    }
+    .title{
+
+        margin-left: 18%;
+        font-size: 140%;
+        margin-top: 4%;
+       
+      }
+  }
+
  @media  screen and (min-width:300px) and (max-width:550px) {
      .section-one{
          display: block;
@@ -163,12 +192,12 @@
       .section-one{
          display: block;
         align-items: center;
-         margin-left: 16%;
+         margin-left: 26%;
      }
     
      .section-three{
          display: block;
-         margin-left: 16%;
+         margin-left: 27%;
      }
      .title{
          margin-left: 28%;
