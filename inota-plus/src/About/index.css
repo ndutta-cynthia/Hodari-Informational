@@ -246,7 +246,7 @@ p {
     }
 
     #pg {
-        font-size: 20px;
+        font-size: 18px;
         text-align: left;
         margin-top: 8%;
         padding-left: 10px;
@@ -270,8 +270,8 @@ p {
         width: 100%;
     }
 
-    p {
-        font-size: 20px;
+    #pg {
+        font-size: 18px;
         text-align: justify;
         padding-left: 15px;
         padding-right: 15px;
@@ -298,8 +298,8 @@ p {
         width: 90%;
     }
 
-    p {
-        font-size: 21px;
+    #pg {
+        font-size: 18px;
         text-align: justify;
     }
 }
@@ -316,13 +316,13 @@ p {
     }
 
     #about-heading {
-        font-size: 28px;
+        font-size: 26px;
         margin-left: 0%; 
         width: 100%;
     }
 
-    p {
-        font-size: 28px;
+    #pg {
+        font-size: 26px;
         text-align: justify;
         /* width: 100%; */
         padding-left: 3%;
@@ -349,8 +349,8 @@ p {
         width: 100%;
     }
 
-    p {
-        font-size: 28px;
+    #pg {
+        font-size: 26px;
         text-align: justify;
         /* width: 100%; */
         padding-left: 3%;
@@ -378,7 +378,7 @@ p {
         width: 100%;
     }
 
-    p {
+    #pg {
         font-size: 20px;
         /* width: 100%; */
         text-align: justify;
@@ -406,7 +406,7 @@ p {
         width: 100%;
     }
 
-    p {
+    #pg {
         font-size: 20px;
         /* width: 100%; */
         text-align: justify;

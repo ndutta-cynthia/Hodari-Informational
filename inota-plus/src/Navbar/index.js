@@ -44,7 +44,7 @@ const Navbar=()=>{
         <ul id="navlist">
         <li><Link to="home" smooth={true} className="nav-link">Home</Link></li>
         <li><Link to="about" smooth={true} className="nav-link">About</Link></li>
-        <li><Link to="features" smooth={true} className="nav-link">Features</Link></li>
+        <li><Link to="feature" smooth={true} className="nav-link">Features</Link></li>
         <li><Link to="partners" smooth={true} className="nav-link">Partners</Link></li>
         <li><Link to="faqs" smooth={true} className="nav-link">FAQs</Link></li>
         </ul>

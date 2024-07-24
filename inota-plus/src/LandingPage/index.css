@@ -427,8 +427,7 @@ button{
     #logo{
         width: 70px;
         height: 60px;
-        margin-left: 22px;
-        
+        margin-left: 22px; 
     }
     #main-container{
         display: flex;

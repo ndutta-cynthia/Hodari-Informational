@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import Partners from './Partners';
 import Feature from './Feature';
 import Footer from "./Footer";
+import Faqs from './Faqs';
 
 
 const App = () =>{
@@ -16,6 +17,7 @@ const App = () =>{
          <About/>
          <Feature/>
          <Partners/>
+         <Faqs />
          <Footer/>
         
 

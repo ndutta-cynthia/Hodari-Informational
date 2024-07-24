@@ -105,7 +105,7 @@
      
  
      .headers{
-         font-size: 100%;
+         font-size: 70%;
      }
      .section-three{
          display: block;
@@ -114,7 +114,7 @@
  
      }
      p{
-         font-size: 85%;
+         font-size: 65%;
      }
      .title{
  
@@ -127,6 +127,40 @@
  
     
  }
+ @media  screen and (min-width:279px) and (max-width:285px) {
+    .section-one{
+        display: flex;
+        flex-direction: column;
+        width: 75%;
+        align-items: center;
+    }
+    
+
+    .headers{
+        font-size: 70%;
+    }
+    .section-three{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10%;
+        width: 75%;
+        align-items: center;
+
+    }
+    p{
+        font-size: 65%;
+    }
+    .title{
+
+        margin-left: 20%;
+        font-size: 150%;
+        margin-top: 4%;
+       
+      }
+      
+
+   
+}
  
  @media  screen and (min-width:600px) and (max-width:800px) {
      .section-one{
